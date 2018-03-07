@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyTestApplication</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="app_shop">商城</string>
+    <string name="app_cart">购物车</string>
+    <string name="app_mine">我</string>
+    <string name="app_agio">折</string>
+    <string name="app_agio_date">截止日期：</string>
+    <string name="app_discount_man">满</string>
+    <string name="app_discount_jian">减</string>
+
+    <string name="product_price_label">¥</string>
+</resources>

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\jd_work\\onlinepro\\MGTestApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wg_shop_mine_pressed.png",
+        "source": "C:\\jd_work\\onlinepro\\MGTestApplication\\app\\src\\main\\res\\drawable-xhdpi\\wg_shop_mine_pressed.png"
+    },
+    {
+        "merged": "C:\\jd_work\\onlinepro\\MGTestApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wg_add_cart_pressed.png",
+        "source": "C:\\jd_work\\onlinepro\\MGTestApplication\\app\\src\\main\\res\\drawable-xhdpi\\wg_add_cart_pressed.png"
+    },
+    {
+        "merged": "C:\\jd_work\\onlinepro\\MGTestApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wg_shop_cart_press.png",
+        "source": "C:\\jd_work\\onlinepro\\MGTestApplication\\app\\src\\main\\res\\drawable-xhdpi\\wg_shop_cart_press.png"
+    },
+    {
+        "merged": "C:\\jd_work\\onlinepro\\MGTestApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wg_shop_cart_normal.png",
+        "source": "C:\\jd_work\\onlinepro\\MGTestApplication\\app\\src\\main\\res\\drawable-xhdpi\\wg_shop_cart_normal.png"
+    },
+    {
+        "merged": "C:\\jd_work\\onlinepro\\MGTestApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wg_add_cart_normal.png",
+        "source": "C:\\jd_work\\onlinepro\\MGTestApplication\\app\\src\\main\\res\\drawable-xhdpi\\wg_add_cart_normal.png"
+    },
+    {
+        "merged": "C:\\jd_work\\onlinepro\\MGTestApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wg_shop_home_press.png",
+        "source": "C:\\jd_work\\onlinepro\\MGTestApplication\\app\\src\\main\\res\\drawable-xhdpi\\wg_shop_home_press.png"
+    },
+    {
+        "merged": "C:\\jd_work\\onlinepro\\MGTestApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wg_shop_home_normal.png",
+        "source": "C:\\jd_work\\onlinepro\\MGTestApplication\\app\\src\\main\\res\\drawable-xhdpi\\wg_shop_home_normal.png"
+    },
+    {
+        "merged": "C:\\jd_work\\onlinepro\\MGTestApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wg_shop_mine_normal.png",
+        "source": "C:\\jd_work\\onlinepro\\MGTestApplication\\app\\src\\main\\res\\drawable-xhdpi\\wg_shop_mine_normal.png"
+    }
+]
