@@ -10,5 +10,8 @@
     <string name="app_discount_man">满</string>
     <string name="app_discount_jian">减</string>
 
+    <string name="app_discount_mine">类折扣</string>
+    <string name="app_discount_fix">优惠券</string>
+
     <string name="product_price_label">¥</string>
 </resources>

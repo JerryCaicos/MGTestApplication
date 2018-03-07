@@ -19,5 +19,10 @@ public class WGUtils
         buffer.append(new DecimalFormat("0.00").format(price));
         return buffer.toString();
     }
+    public static String getFormatAgio(Context context, Double price)
+    {
+        price = price * 10;
+        return new DecimalFormat("0.0").format(price);
+    }
 
 }

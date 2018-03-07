@@ -76,7 +76,7 @@ public class DataBaseService implements BasicService
             categoryModel = null;
             categoryModel = new CategoryModel();
             categoryModel.cateId = "wines";
-            categoryModel.cateName = "酒类";
+            categoryModel.cateName = "酒水";
             categoryModel.agio = 1.0;
             categoryModel.hasAgio = 0;
             categoryModel.outDate = date;
