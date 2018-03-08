@@ -11,6 +11,7 @@ import android.view.ViewGroup;
 import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.mg.mobile.app.R;
 import com.mg.mobile.app.model.CartProductModel;
@@ -73,8 +74,13 @@ public class CartProductView extends LinearLayout
 //                {
 //                    return;
 //                }
-//                productModel.num = Integer.parseInt(s.toString());
-//                dbHelper.updateBean(CartProductModel.class, productModel);
+//
+//                int num = Integer.parseInt(s.toString());
+//                if(num != productModel.num)
+//                {
+//                    Toast.makeText(mContext,"暂不支持修改数量",Toast.LENGTH_SHORT).show();
+//                    productNum.setText(String.valueOf(productModel.num));
+//                }
             }
 
             @Override
