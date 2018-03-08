@@ -13,7 +13,7 @@ import com.mg.mobile.app.model.CouponModel;
 import java.util.List;
 
 /**
- * Created by adminchen on 2018/3/7 23:44.
+ * Created by chenaxing on 2018/3/7 23:44.
  */
 
 public class DiscountAdapter extends RecyclerView.Adapter<ViewHolders>
