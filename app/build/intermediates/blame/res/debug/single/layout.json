@@ -20,6 +20,14 @@
         "source": "C:\\Users\\chenaxing\\.android\\build-cache\\9351ec08447899bc90aa5b4cb4a2b8241afc0674\\output\\res\\layout\\notification_action.xml"
     },
     {
+        "merged": "C:\\jd_work\\onlinepro\\MGTestApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_item_agio.xml",
+        "source": "C:\\jd_work\\onlinepro\\MGTestApplication\\app\\src\\main\\res\\layout\\layout_item_agio.xml"
+    },
+    {
+        "merged": "C:\\jd_work\\onlinepro\\MGTestApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mine_fragment.xml",
+        "source": "C:\\jd_work\\onlinepro\\MGTestApplication\\app\\src\\main\\res\\layout\\activity_mine_fragment.xml"
+    },
+    {
         "merged": "C:\\jd_work\\onlinepro\\MGTestApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "C:\\Users\\chenaxing\\.android\\build-cache\\9351ec08447899bc90aa5b4cb4a2b8241afc0674\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
@@ -186,6 +194,10 @@
     {
         "merged": "C:\\jd_work\\onlinepro\\MGTestApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
         "source": "C:\\Users\\chenaxing\\.android\\build-cache\\77ef5bc026d86a10f498f2b45374d19a1df764f6\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\jd_work\\onlinepro\\MGTestApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_item_discount.xml",
+        "source": "C:\\jd_work\\onlinepro\\MGTestApplication\\app\\src\\main\\res\\layout\\layout_item_discount.xml"
     },
     {
         "merged": "C:\\jd_work\\onlinepro\\MGTestApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",

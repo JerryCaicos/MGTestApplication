@@ -21,7 +21,10 @@ public class MainApplication extends Application
 
     public void exit()
     {
-        dataBaseService.onApplicationDestory(getApplicationContext());
+        if(dataBaseService != null)
+        {
+            dataBaseService.onApplicationDestory(getApplicationContext());
+        }
 
         System.exit(0);
     }

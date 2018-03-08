@@ -54,4 +54,11 @@ public class MainActivity extends AppCompatActivity
         mTabLayout.setupWithViewPager(mViewPager);//将TabLayout和ViewPager关联起来。
 
     }
+
+    @Override
+    protected void onDestroy()
+    {
+        super.onDestroy();
+        ((MainApplication)getApplication()).exit();
+    }
 }
